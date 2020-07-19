@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: pauloxconceicao@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: disqus_kPaxm41SZ9 # add your discus identifier
+discus-identifier: #disqus_kPaxm41SZ9 # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

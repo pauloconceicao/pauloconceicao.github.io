@@ -41,4 +41,3 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 include: [_pages]
 
-#http://localhost:4000/flexible-jekyll/assets/img/david-freeman.jpg

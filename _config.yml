@@ -1,0 +1,44 @@
+title: Hello, world! I'm Paulo Conceição
+description: > # this means to ignore newlines until "baseurl:"
+  Short tips on python related to GIS, mapping, data science, ML.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Paulo Conceição # add your name
+author-img: PAULO_750X750.jpg # add your photo
+about-author: I am a researcher trying to be more than a pixel into a digital ocean of knowledge. Always hungry to keep learning. # add description
+social-twitter: PauloncRs # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: pauloconceicao # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: pauloxconceicao@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: disqus_kPaxm41SZ9 # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 5
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+include: [_pages]
+
+#http://localhost:4000/flexible-jekyll/assets/img/david-freeman.jpg

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Como postar no github com jekyll"
-date:   2020-07-18 00:00:00
+date: 2020-07-18 00:00:00
 description: Primeiro blogpost
 img: Abandoned-Mine1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-categories: [Mining, Dataset, Geocoding, Visualization]
 tags: [Mining, Dataset, Geocoding, Visualization]
+categories: [Mining, Dataset, Geocoding, Visualization]
 ---
 
 Geoespacial análise com GIS (Geographic Information System) e Python: uma breve introdução

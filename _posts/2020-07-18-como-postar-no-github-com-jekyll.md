@@ -5,6 +5,7 @@ date:   2020-07-18 00:00:00
 description: Primeiro blogpost
 img: Abandoned-Mine1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+categories: [Mining, Dataset, Geocoding, Visualization]
 tags: [Mining, Dataset, Geocoding, Visualization]
 ---
 

@@ -31,6 +31,13 @@ layout: main
             <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
           {% endfor %}
         </div>
+        
+        <div class="page-category">
+          {% for category in page.categories %}
+            <a href="{{site.baseurl}}/categories#{{category}}" class="category">&#35; {{ category }}</a>
+          {% endfor %}
+        </div>
+        
       </div>
       {% include disqus.html %}
     </div> <!-- End Wrap Content -->

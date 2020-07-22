@@ -5,7 +5,7 @@ date:   2020-07-18 00:00:00
 description: Primeiro blogpost
 img: Abandoned-Mine1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Python, Mapping, GIS]
+tags: [Mining, Dataset, Geocoding, Visualization]
 ---
 
 Geoespacial análise com GIS (Geographic Information System) e Python: uma breve introdução

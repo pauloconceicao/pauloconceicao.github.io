@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Análise Geoespacial com GIS (Geographic Information System) e Python: uma breve introdução"; segunda parte
+title:  "Análise Geoespacial com GIS (Geographic Information System) e Python: uma breve introdução" - segunda parte
 date: 2020-07-24 00:00:00
 description: Segundo blogpost de uma sequência de 3
 img: capa.png # Add image post (optional)
@@ -8,7 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Mining, Dataset, Geocoding, Visualization]
 categories: [Mining, Dataset, Geocoding, Visualization]
 ---
-
 Como mencionado na ![primeira parte](https://pauloconceicao.github.io/como-postar-no-github-com-jekyll/) deste artigo ele é divido em três e, nesta, será abordada a utlizização de GIS e alguns conceitos direcionados ao problema em curso.
 
 ### O que é GIS (Geographic Information System)? ###

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Análise Geoespacial com GIS (Geographic Information System) e Python: uma breve introdução" - segunda parte
+title:  "Análise Geoespacial com GIS (Geographic Information System) e Python: uma breve introdução - segunda parte"
 date: 2020-07-24 00:00:00
 description: Segundo blogpost de uma sequência de 3
 img: capa.png # Add image post (optional)

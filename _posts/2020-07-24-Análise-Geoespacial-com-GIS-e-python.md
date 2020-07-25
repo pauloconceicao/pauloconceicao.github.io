@@ -9,7 +9,7 @@ tags: [Mining, Dataset, Geocoding, Visualization]
 categories: [Mining, Dataset, Geocoding, Visualization]
 ---
 
-Como mencionado na ([primeira parte])(https://pauloconceicao.github.io/como-postar-no-github-com-jekyll/) deste artigo ele é divido em três e, nesta, será abordada a utlizização de GIS e alguns conceitos direcionados ao problema em curso.
+Como mencionado na ![primeira parte](https://pauloconceicao.github.io/como-postar-no-github-com-jekyll/) deste artigo ele é divido em três e, nesta, será abordada a utlizização de GIS e alguns conceitos direcionados ao problema em curso.
 
 ### O que é GIS (Geographic Information System)? ###
 Usando a terminologia popular, é um conjunto de ferramentas para coletar, gerenciar e analisar dados. É utilizada para análise de dados geoespaciais, como a localização de pontos, linhas e polígonos e organiza as informações em camadas para visualização em mapas. Com GIS é possível revelar-se novos insights dos dados, tais como, interações, padrões e relacionamentos para auxiliar a tomada de decisões.

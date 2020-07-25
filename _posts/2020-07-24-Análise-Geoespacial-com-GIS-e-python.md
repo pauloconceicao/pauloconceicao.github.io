@@ -57,3 +57,21 @@ Para quem usa Linux basta digitar na linha de comando:
 <div style="width: 600px;">
  <a href="/assets/img/2020-07-24-P2-FIG_01_DLOAD.png"> <img src="/assets/img/2020-07-24-P2-FIG_01_DLOAD.png" width="580px"></a>
 </div>
+
+Uma vez realizado o download, é necessário que o arquivo seja descompactado. Para isso, basta ir ao diretório onde o arquivo foi armazenado e descompactá-lo com **unzip**:
+
+<div style="width: 600px;">
+ <a href="/assets/img/2020-07-24-P2-FIG_02_UNZIP.png"> <img src="/assets/img/2020-07-24-P2-FIG_02_UNZIP.png" width="580px"></a>
+</div>
+
+Verifique se tudo ocorreu de forma satisfatório com o comando **ls**. Os arquivos descompactados devem parecer como na figura.
+
+<div style="width: 600px;">
+ <a href="/assets/img/2020-07-24-P2-FIG_03_ls.png"> <img src="/assets/img/2020-07-24-P2-FIG_03_ls.png" width="580px"></a>
+</div>
+
+Como comentado anteriormente, são vários os arquivos com diferentes extensões. O arquivo **.dbf** contém as informações sobre os atributos e o arquivo com extensão **.prj** contém informações sobre o sistema de coordenadas.
+
+Bom, por hoje ficamos por aqui. No próximo post finalizarei o estudo.
+
+Grato pela leitura.

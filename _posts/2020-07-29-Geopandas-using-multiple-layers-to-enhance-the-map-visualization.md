@@ -3,7 +3,7 @@ layout: post
 title:  "Geopandas using multiple layers to enhance the map visualization"
 date: 2020-07-29 00:00:00
 description: Usando múltiplas camadas para melhorar a visualização de mapas através de geopandas
-img: /assets/img/2020-08/2020-07-29-capa-geopandas.jpg # Add image post (optional)
+img: 2020-07-29-capa-geopandas.jpg # Add image post (optional)
 fig-caption: Photo from Unsplash.com # Add figcaption (optional)
 tags: [Mining, Dataset, Geocoding, Visualization]
 categories: [Mining, Dataset, Geocoding, Visualization]

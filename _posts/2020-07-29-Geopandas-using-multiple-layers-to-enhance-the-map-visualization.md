@@ -22,14 +22,14 @@ Para exemplificar melhor, a Figura 1 mostra o mapa das massas de água Atlântic
 <div style="width: 600px;">
  <a href="/assets/img/2020-08/2020-07-29-FIG1.png"> <img src="/assets/img/2020-08/2020-07-29-FIG1.png" width="480px"></a>
 </div>
-**Figura1**
+**Figura 1**: mapa das massas de água Atlântico Sul.
 
 Uma alternativa para tentar melhor a visualização seria traçar as bordas de cada estrutura. Para isso deixaríamos a cor da massa de água transparente, para o contorno se sobressair. Aplicando o comando para realizar a tarefa, ficaria  `arquivo.plot(facecolor=”none”, edgecolor=”blue”)`. Contudo, isso causaria uma certa confusão, pois os argumentos  `“none”`  e  `None`  são diferentes quando se usa  `“facecolor”` , eles têm funções opostas. O melhor procedimento é usar  `arquivo.boundary.plot()` . Este contexto é mais explícito e claro para o módulo de plotagem. A Figura 2 exemplifica o resultado da operação. Ainda assim, não parece um resultado muito bom, pois massas de água pequenas ou sinuosas parecem estar preenchidas e não é possível fazer distinção entre estruturas muito próximas.
 
 <div style="width: 600px;">
  <a href="/assets/img/2020-08/2020-07-29-FIG2.png"> <img src="/assets/img/2020-08/2020-07-29-FIG2.png" width="480px"></a>
 </div>
-**Figura2**
+**Figura 2**: Contorno das massas de água
 
 ## Melhorando o resultado
 Bom, o meu truque para intensificar a visualização é usar múltiplas camadas. Usaremos uma camada para o contorno e outra para o preenchimento. Quando se usa múltiplas camadas, usa-se  `zorder`  para controlar a ordem em que as camadas aparecem e, aí vem a segunda parte do truque que é ordenar de forma correta as camadas, pois se ordenar errado o preenchimento fica por baixo e não aparecerá. A terceira parte, que é opcional, é adicionar cor variável as massas de água, a variação pode estar relacionada ao ID da estrutura ou ao tamanho. A Figura 3 mostra o resultado. Melhor, né?
@@ -37,7 +37,7 @@ Bom, o meu truque para intensificar a visualização é usar múltiplas camadas.
 <div style="width: 600px;">
  <a href="/assets/img/2020-08/2020-07-29-FIG3.png"> <img src="/assets/img/2020-08/2020-07-29-FIG3.png" width="480px"></a>
 </div>
-**Figura3**
+**Figura 3**: Sobreposição e ordenação das camadas para melhorar o mapa.
 
 ## Código completo
 ```python

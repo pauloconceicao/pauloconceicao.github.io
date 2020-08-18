@@ -9,14 +9,15 @@ tags: [Mining, Dataset, Geocoding, Visualization]
 categories: [Mining, Dataset, Geocoding, Visualization]
 ---
 
-Python Package Index, popularmente conhecido como Pypi é onde os pacotes feitos por terceiros são armazenados, ou seja, é o repositório oficial de aplicações escritas em python. Pypi te ajuda a buscar, instalar e publicar pacotes codificados em Python tendo sidos desenvolvidos e compartilhados pela Python Community (galera que faz a felicidade dos programadores – tudo que tu pensares, lá tem, se não tem tu podes desenvolver e armazenar lá – simples assim).
+Python Package Index, popularmente conhecido como `Pypi` é onde os pacotes feitos por terceiros são armazenados, ou seja, é o repositório oficial de aplicações escritas em python. Pypi te ajuda a buscar, instalar e publicar pacotes codificados em Python tendo sidos desenvolvidos e compartilhados pela `Python Community` (galera que faz a felicidade dos programadores – tudo que tu pensares, lá tem, se não tem tu podes desenvolver e armazenar lá – simples assim).
 
 <div style="width: 600px;">
  <a href="/assets/img/2020-08/2020-08-05-pypi.jpg"> <img src="/assets/img/2020-08/2020-08-05-pypi.jpg" width="480px"></a>
 </div>
 Photo by AllGo - An App For Plus Size People -on Unsplash.
 
-##Aqui vai umas dicas para usar o Pypi
+## Aqui vai umas dicas para usar o Pypi
+
 Primeiro: é sempre bom já ter o Python instalado e saber qual versão está rodando. Para isso, vá para a linha de comando é digite:
 
 `python –version`
@@ -26,7 +27,7 @@ O retorno será algo como:
 `Python 3.x.y`
 
 `X` e `Y` serão a complementação da versão instalada, por exemplo, `python 3.8.0`.
-Isso se tu instalaste a última versão. Se não tens python instalado, instale a última versão que estará disponível em [python.org] (https://python.org/).
+Isso se tu instalaste a última versão. Se não tens python instalado, instale a última versão que estará disponível em [python.org](https://python.org/).
 
 Segundo: já com Python funcionando, tu precisaras do pip instalado (pip é a ferramenta mais pop para instalar os pacotes python, sem ela, não rola, literalmente). Na linha de comando digite:
 

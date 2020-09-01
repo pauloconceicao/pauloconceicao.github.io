@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Como criar uma base de dados python"
+title:  "Como criar uma base de dados com Python"
 date: 2020-08-10 00:00:00
-description: Projeto: Como criar uma base de dados com Python
+description: Projeto - Como criar uma base de dados com Python
 img: 2020-08-10-capa-christina-wocintechchat.com-unsplash.jpg # Add image post (optional)
 fig-caption: Photo by Christina @wocintechchat.com from Unsplash.com # Add figcaption (optional)
 tags: [Mining, Dataset, Geocoding, Visualization]
